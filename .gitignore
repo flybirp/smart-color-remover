@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*_transparent.png
+*_transparent.webp
+test_*.png
+output*.png
