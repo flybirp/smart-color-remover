@@ -1,6 +1,18 @@
 ---
 name: smart-color-remover
 description: 智能颜色抠图器 - 将图片中指定颜色变成透明（生成带 Alpha 通道的 PNG）。使用场景：用户要求"扣掉/去掉/移除图片中的某种颜色"、"把背景色变透明"、"颜色抠图"、"去色变透明"、"制作透明背景图片"。关键词：抠图、抠色、去色、透明、alpha、颜色移除、背景移除。支持中文颜色名（红/浅蓝/深绿/白色背景…）、十六进制、RGB 输入。
+license: MIT
+metadata:
+  author: flybirp
+  homepage: https://github.com/flybirp/smart-color-remover
+  version: 1.0.0
+  tags:
+    - 图像处理
+    - 抠图
+    - 颜色移除
+    - 透明背景
+    - image-processing
+    - background-removal
 ---
 
 # Smart Color Remover（智能颜色抠图器）
